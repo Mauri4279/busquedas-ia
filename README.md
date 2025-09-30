@@ -11,4 +11,4 @@ Este repositorio corresponde a ejercitaciones de la materia **Desarrollo de Sist
 - Otros ejemplos prácticos
   
 ## Autor
-Mauricio León Daly – IFTS 11
+Mauricio Ruiz - IFTS11
